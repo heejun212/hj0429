@@ -1,0 +1,7 @@
+from tkinter import*
+
+win = Tk()
+
+canvas = Canvas(win, bg = "white", width = 300, height = 300)
+canvas.pack()
+win.mainloop()
