@@ -1,0 +1,15 @@
+#더하기
+def add(x, y):
+    print(x + y)
+
+#빼기
+def sub(x, y):
+    print(x - y)
+
+#곱하기
+def mul(x, y):
+    print(x * y)
+
+#나누기
+def div(x, y):
+    print(x // y)
